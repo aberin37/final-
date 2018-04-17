@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Me Too Movement</title>
+    <div class= "card-panel pink lighten-2">Annabel Berin
+    </div>
+    <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/path/to/parallax.js"></script>
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+
+    <script src="script.js"></script>
+</head>
+    <body>
+      <div class="row">
+        <div class="col offset-m3 m6 center-align">
+       	<div class="image">
+<div class="parallax-window" data-parallax="scroll" data-image-src="/path/to/image.jpg"></div>
+		<img src= "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1509589458/171101-ryan-metoo-tease_ann11k">
+		</div>
+			<div class="metoo">
+			<h1>You Don't Get A Say in the #metoo Movement</h1>
+			<p> Men claiming #metoo movement is "destroying lives" and "ruining innocent people" </p>
+			<p>What do you think the percentage of women sexually assaulted is? (hint about 20% of women are sexually assaulted by the time they are in college)</p>
+			<a href="#">Click to find out!</a>
+			</div>
+	<div>	
+<p> Yup. That's right. Recent data has shown in the United States a distrubingly 80% of women have come out as being sexually assaulted. Your mother. Your best friend. Your daughter. Your boss.For many people, part of the current #MeToo moment has been learning that some of the people closest to us have been through sexual harassment or assault, experiences many never talked about until recently. In the past few months, the sheer prevalence of such experiences has been a surprise for some — and for others, a bittersweet confirmation of a problem too long swept under the rug.</p></div>	
+
+<div class="timesup"></div>
+<img src="https://media.giphy.com/media/26DMWIeEzULoypZwQ/giphy.gif">
+<p>Donald Trump has been vocal about many things he dislikes, and now the President of the United States has lashed out against the #MeToo movement. Via Twitter, Trump said “Peoples lives are being shattered and destroyed by a mere allegation. Some are true and some are false.” He went on to say “Some are old and some are new. There is no recovery for someone falsely accused - life and career are gone. Is there no such thing any longer as Due Process?” Many other men are claiming this is damaging "innocent lives." But what about the lives of the women they're raping?</p>
+<img src="https://infographic.statista.com/normal/chartoftheday_11809_most_us_women_have_been_sexually_harassed_n.jpg">
+  </body>
+</html>
+
