@@ -2,8 +2,12 @@
 <html>
   <head>
     <title>Me Too Movement</title>
-    <div class= "card-panel pink lighten-2">Annabel Berin
+    <div class= "card-panel grey">
+    	<div class="image"> <img src="https://www.dafont.com/forum/attach/orig/4/9/490390.jpg">
+    		</div>
+
     </div>
+        <link rel="style" href="style.css"
     <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
@@ -12,7 +16,6 @@
     <link rel="stylesheet" type="text/css"
     href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="/path/to/parallax.js"></script>
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
@@ -20,25 +23,54 @@
     <script src="script.js"></script>
 </head>
     <body>
-      <div class="row">
-        <div class="col offset-m3 m6 center-align">
-       	<div class="image">
-<div class="parallax-window" data-parallax="scroll" data-image-src="/path/to/image.jpg"></div>
-		<img src= "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1509589458/171101-ryan-metoo-tease_ann11k">
-		</div>
-			<div class="metoo">
-			<h1>You Don't Get A Say in the #metoo Movement</h1>
-			<p> Men claiming #metoo movement is "destroying lives" and "ruining innocent people" </p>
+      <div class="row"></div>
+		<div class="col s12 center-align"></div>
+
+<div class="parallax-container">
+      <div class="parallax"><img src="https://cdn.vox-cdn.com/thumbor/Wy43crjML4qELZgKGemi86-zP84=/0x0:3500x2333/920x613/filters:focal(1260x1310:1820x1870):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58773397/873351280.jpg.0.jpg"></div>
+    </div>
+ 
+
+<div class="row">
+    <div class="col s12 center-align">
+      <div class="text"></div>
+      <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+			<h1><p><em>Measuring #MeToo: more than 80 percent of women have been sexually harassed or assaulted</em></h1>  
+			<p><b> A new survey asked Americans about sexual harassment and assault. The results are disturbing.</p></b>
+
+			<p> Your mother. Your best friend. Your daughter. Your boss.
+
+For many people, part of the current #MeToo moment has been learning that some of the people closest to us have been through sexual harassment or assault, experiences many never talked about until recently. In the past few months, the sheer prevalence of such experiences has been a surprise for some — and for others, a bittersweet confirmation of a problem too long swept under the rug.
+
+But broad data on how common sexual harassment really is has been difficult to come by. That changed on Wednesday when the group Stop Street Harassment released a nationwide survey on harassment and assault.</p>
 			<p>What do you think the percentage of women sexually assaulted is? (hint about 20% of women are sexually assaulted by the time they are in college)</p>
-			<a href="#">Click to find out!</a>
-			</div>
+			<a href="javascript:;">Click to find out!</a>
+			<div class="answer"></div>
+		
 	<div>	
-<p> Yup. That's right. Recent data has shown in the United States a distrubingly 80% of women have come out as being sexually assaulted. Your mother. Your best friend. Your daughter. Your boss.For many people, part of the current #MeToo moment has been learning that some of the people closest to us have been through sexual harassment or assault, experiences many never talked about until recently. In the past few months, the sheer prevalence of such experiences has been a surprise for some — and for others, a bittersweet confirmation of a problem too long swept under the rug.</p></div>	
+<p> According to the survey, which used a nationally representative sample of about 2,000 adults, 81 percent of women and 43 percent of men say they have experienced some form of sexual harassment or assault in their lives. People with disabilities were more likely than others to report experiencing harassment and assault, and gay and bisexual men were more likely to report these experiences than straight men.
+
+A significant portion of people who were harassed or assaulted experienced depression or anxiety as a result. Overall, the survey paints a picture of a problem that is near ubiquitous for women and distressingly common for men, and can cause real and serious harm to the people it affects.</p></div>	
 
 <div class="timesup"></div>
 <img src="https://media.giphy.com/media/26DMWIeEzULoypZwQ/giphy.gif">
-<p>Donald Trump has been vocal about many things he dislikes, and now the President of the United States has lashed out against the #MeToo movement. Via Twitter, Trump said “Peoples lives are being shattered and destroyed by a mere allegation. Some are true and some are false.” He went on to say “Some are old and some are new. There is no recovery for someone falsely accused - life and career are gone. Is there no such thing any longer as Due Process?” Many other men are claiming this is damaging "innocent lives." But what about the lives of the women they're raping?</p>
-<img src="https://infographic.statista.com/normal/chartoftheday_11809_most_us_women_have_been_sexually_harassed_n.jpg">
+<p>The Stop Street Harassment survey, meanwhile, looked not just at the prevalence of harassment and assault overall but also at different types of experiences as well as different locations, like home, work, or school. Respondents had to choose whether they identified as female or male, though they were also asked a separate question about their preferred gender identity — 13 people identified as transgender, 5 as other, and 63 did not respond to the gender identity question.
+
+The most common type of harassment was verbal, according to the survey, with 77 percent of women and 34 percent of men reporting that they had experienced it at some point in their lives. Sixty-two percent of women and 26 percent of men reported physical harassment, including unwelcome sexual touching (51 percent of women and 17 percent of men), being followed (34 percent of women and 12 percent of men), and being shown someone else’s genitals against their will (30 percent of women and 12 percent of men). Forty-one percent of women and 22 percent of men reported harassment by text, phone, or online.
+
+Meanwhile, 27 percent of women and 7 percent of men reported experiencing sexual assault.</p>
+
+<iframe src="https://uploads.knightlab.com/storymapjs/298542eb2c3e542522afdda3093cf740/sexual-harassment-in-the-world/index.html" frameborder="0" width="100%" height="800"></iframe>
+<p>The most common place to experience sexual harassment, according to the survey, was a public space like the street or a store, with 66 percent of women and 19 percent of men reporting harassment in such places. Workplace harassment was less common, with 38 percent of women and 13 percent of men reporting being harassed at work. Thirty percent of women and 14 percent of men reported being harassed in primary or secondary school, while 16 percent of women and 6 percent of men said they were harassed at a college or university.
+
+When the survey’s authors broke down their results by race, they did not find significant differences in the prevalence of sexual harassment or assault among women. Hispanic men, however, reported experiencing more harassment and assault than either black or white men.</p>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRY8G0k1BFXLne0TQ-8i9nPH-IqNgvJ1huEux7AL0HO81ZR_wsK8F2HoI6AdH_ExUwnUr-L8te79giY/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<p>People with disabilities were more likely to report all forms of sexual harassment and assault than people without disabilities, according to the survey. For instance, 69 percent of women and 39 percent of men with disabilities reported physically aggressive sexual harassment, compared with 59 percent of women and 23 percent of men without disabilities.
+
+When the survey’s authors asked about the impact of sexual harassment and assault, the results were sobering. Thirty-one percent of women and 20 percent of men reported feeling anxiety or depression. Twenty-three percent of women and 12 percent of men said they changed a regular routine or travel route. Less than 10 percent of both women and men said they had filed an official complaint or report about the experience.</p>
   </body>
 </html>
+
 
