@@ -1,4 +1,8 @@
 // A $( document ).ready() block.
+$(document).ready(function(){
+    $('.parallax').parallax();
+  });
+
 $( document ).ready(function() {
     console.log( "ready!" );
 
@@ -6,11 +10,8 @@ $( document ).ready(function() {
     //reveal more information
 
     $("a").on("click", function() {
-      $(".col").append("<h1>80%.</h1>");
+      $(".answer").append("<h1>80%.</h1>");
     });
 });
 
-$('.parallax-window').parallax({imageSrc:'/path/to/image.jpg'
-
-});
-
+ 
